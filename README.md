@@ -4,9 +4,9 @@ Parbaudes darbs, kas saistits ar Unity Engine izmantosanu
 
 ## Darāmo darbu saraksts
 - [ ] Iespējams ievadīt apģērbjamā tēla vārdu un vecumu
-- [ ] Iespējams izvēlēties vismaz divus tēlus, kurus iespējams apģērbt 
+- [x] Iespējams izvēlēties vismaz divus tēlus, kurus iespējams apģērbt 
 - [ ] Izveidotas vairākas apģērbu un aprīkojuma kategorijas
-- [ ] Izvēlēto aprīkojumu pēc drag and drop principa iespējams pārvietot un nolikt izvēlētajā vietā
+- [x] Izvēlēto aprīkojumu pēc drag and drop principa iespējams pārvietot un nolikt izvēlētajā vietā
 - [ ] Nodrošināti skaņas efekti (pogu klikšķi, fona mūzika, tēlu izdarītās skaņas)
 - [ ] Ievietota scroll view komponente, kurā lasāms neliels apraksts par projektā iekļautajiem tēliem
 - [ ] Iekļauti divi slider elementi, kur viens maina apģērbjamā tēla garumu, bet otrs platumu
